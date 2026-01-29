@@ -35,7 +35,7 @@ export async function GET() {
               textTransform: "uppercase",
             }}
           >
-            KOLKO STOJI REALITA
+            KOĽKO STOJÍ REALITA?
           </p>
 
           <h1
@@ -72,7 +72,7 @@ export async function GET() {
               lineHeight: 1.4,
             }}
           >
-            Real cost of living in Slovakia
+            Nie si chudobný. Len žiješ v realite.
           </p>
 
           <div
